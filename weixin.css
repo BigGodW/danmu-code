@@ -86,3 +86,10 @@ div.live-realtime-container .live-realtime-interactive-part {
 #footer {
   display: none !important;
 }
+/* 用户 */
+.live-gift-list-item｛
+  padding:5px
+｝
+.live-gift-list-item .live-gift-list-item-number.inactive{
+  display:none !important;
+}
